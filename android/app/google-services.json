@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339863148977",
+    "project_id": "byme-12aeb",
+    "storage_bucket": "byme-12aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339863148977:android:b3c9ffd16164ca35688590",
+        "android_client_info": {
+          "package_name": "com.example.firestore_app_ti43"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo46Hn3OeC9yBLAT6QDNDOGrZh6qEE4n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339863148977:android:0d25324850deaee9688590",
+        "android_client_info": {
+          "package_name": "com.utrm.byme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo46Hn3OeC9yBLAT6QDNDOGrZh6qEE4n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
