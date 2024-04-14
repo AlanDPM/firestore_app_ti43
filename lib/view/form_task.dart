@@ -54,7 +54,7 @@ class _AddNewTaskScreenState extends State<AddNewTaskScreen> {
                 onPressed: () {
                   // Create a new user with a first and last name
                   final task = <String, dynamic>{
-                    "name": nameController.text;
+                    "name": nameController.text
                   };
 // Add a new document with a generated ID
 final db = FirebaseFirestore.instance;
